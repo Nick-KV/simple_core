@@ -8,4 +8,6 @@ Utilization:
 	DSP	1
 	
 
-For start run building script (Vivado)
+For start run building script (Vivado).
+
+Also present wide testbench with reading and saving to memory files (.mif) in the simulation directory.
