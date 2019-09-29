@@ -2,13 +2,10 @@ This is an initial project for a simple kernel (3 operations: addition, subtract
 
 Utilization:
 
-	LUT		128
-	
-	FF		83
-	
+	LUT	128
+	FF	83
 	BRAM	2 (16K)
-	
-	DSP		1
+	DSP	1
 	
 
 For start run building script (Vivado)
