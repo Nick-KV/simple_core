@@ -1,4 +1,5 @@
 This is an initial project for a simple kernel (3 operations: addition, subtraction and multiplexing)
+
 Utilization:
 	LUT		128
 	FF		83
